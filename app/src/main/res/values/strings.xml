@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CUSTOM_DIALOG</string>
+    <string name="textview">Hello World! This is a text view</string>
+    <string name="image_button_textview">Image Button -></string>
+    <string name="image">image</string>
+    <string name="alert_dialog_button">Alert Dialog</string>
+    <string name="custom_dialog_button">Custom Dialog</string>
+    <string name="custom_progress_dialog_button">Custom Progress Dialog</string>
+    <string name="custom_dialog_title">Custom Dialog Title</string>
+    <string name="custom_dialog_text">Custom Dialog Content Details. Which you can set your own as per requirements </string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="custom_progress_tv">Please Wait...</string>
+
+</resources>
